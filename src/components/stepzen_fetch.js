@@ -30,4 +30,4 @@ function StepZenLaucnh() {
     </div>
   );
 }
-export default App;
+export default StepZenLaunch;
