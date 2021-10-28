@@ -18,9 +18,7 @@ function StepZenLaunch() {
               <b className="Title">{launch.mission_name}</b>
               <br />
               <p className="Description">
-                Launched from {launch.launch_site.site_name}. <br />
-                Used rocket {launch.rocket.rocket_name}
-              </p>
+
             </Card>
           ))}
         </CardList>
