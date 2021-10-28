@@ -1,4 +1,4 @@
-function StepZenLaucnh() {
+function StepZenLaunch() {
   const { loading, error, data } = useQuery(GET_QUERY);
   console.log(data)
 
