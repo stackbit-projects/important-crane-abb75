@@ -51,11 +51,6 @@ function Page(props) {
         }
       } 
       `,
-        variables: {
-          github_token: github_token,
-          twitter_bearerToken: twitter_bearerToken,
-          username: username,
-        },
       }),
     }
   );
