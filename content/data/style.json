@@ -29,7 +29,7 @@
     "complementaryAlt": "#fffde2",
     "buttonPrimary": {
         "radius": "9999px",
-        "case": "lowercase"
+        "case": "uppercase"
     },
     "buttonSecondary": {
         "radius": 0,
