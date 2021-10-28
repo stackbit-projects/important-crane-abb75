@@ -17,8 +17,6 @@ function StepZenLaunch() {
             <Card key={launch.id}>
               <b className="Title">{launch.mission_name}</b>
               <br />
-              <p className="Description">
-
             </Card>
           ))}
         </CardList>
